@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "nat",
+      "email": "nat@gmail.com"
+    },
+    {
+      "id": "102",
+      "name": "pong",
+      "email": "pong@gmail.com"
+    },
+    {
+      "id": "103",
+      "name": "mint",
+      "email": "mint@gmail.com"
+    },
+    {
+      "id": 104,
+      "name": "Chanom",
+      "email": "chanom@gmail.com"
+    }
+  ]
+}
